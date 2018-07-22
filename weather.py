@@ -4,8 +4,8 @@
 import ftime
 
 def weather():
-    city = "Berlin"
-    print("Here is {}".format(city))
+    location = "Munich"
+    expense = "high"
 	print("Current date and time are {}".format(ftime.today()))
 
 if __name__ == "__main__":
